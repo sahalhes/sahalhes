@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sahalhes
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning BTech Computer Science & Engineering
+- Hi, I’m @sahalhes
+- I’m interested in technology
+-  I’m currently learning BTech Computer Science & Engineering
+-  LinkedIn - https://www.linkedin.com/in/sahalhes/
 
 
 <!---
