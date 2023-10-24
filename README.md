@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://dev.to/sahalhes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahalhes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahalhes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahalhes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahalhes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahalhes" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/sahalhes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahalhes" height="30" width="40" /></a> -->
 <a href="/https://dev.to/feed/sahalhes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.to/feed/sahalhes" height="30" width="40" /></a>
 </p>
 
